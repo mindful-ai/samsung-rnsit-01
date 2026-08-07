@@ -1,0 +1,501 @@
+document_id,document_type,title,content,category,tags,metadata
+R001,restaurant_profile,Restaurant Profile,"Spice Garden Family Restaurant in Bengaluru serves Indian, Chinese and Continental cuisine. Open daily 11:00 AM to 10:30 PM. Happy Hours from 3:00 PM to 5:00 PM with selected discounts. Reservations recommended for groups of 4 or more.",profile,"restaurant,profile","{""city"": ""Bengaluru""}"
+M002,menu_item,Paneer Tikka Premium,Paneer Tikka Premium is a veg starter costing ₹240. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 240, ""serves"": 1, ""diet"": ""Veg""}"
+M003,menu_item,Chicken Biryani Special,Chicken Biryani Special is a non-veg main course costing ₹140. Serves 2. Popular among families.,Main Course,"non-veg,main course","{""price"": 140, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M004,menu_item,Paneer Tikka Classic,Paneer Tikka Classic is a veg starter costing ₹220. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 220, ""serves"": 1, ""diet"": ""Veg""}"
+M005,menu_item,Stuffed Mushrooms Chef's,Stuffed Mushrooms Chef's is a veg starter costing ₹430. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 430, ""serves"": 2, ""diet"": ""Veg""}"
+M006,menu_item,Noodles Special,Noodles Special is a veg main course costing ₹260. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 260, ""serves"": 1, ""diet"": ""Veg""}"
+M007,menu_item,Chicken Fried Rice Premium,Chicken Fried Rice Premium is a non-veg main course costing ₹260. Serves 1. Popular among families.,Main Course,"non-veg,main course","{""price"": 260, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M008,menu_item,Veg Fried Rice Classic,Veg Fried Rice Classic is a veg main course costing ₹140. Serves 2. Popular among families.,Main Course,"veg,main course","{""price"": 140, ""serves"": 2, ""diet"": ""Veg""}"
+M009,menu_item,Fish Fingers Premium,Fish Fingers Premium is a non-veg starter costing ₹250. Serves 1. Popular among families.,Starter,"non-veg,starter","{""price"": 250, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M010,menu_item,Mango Shake Classic,Mango Shake Classic is a veg beverage costing ₹330. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 330, ""serves"": 1, ""diet"": ""Veg""}"
+M011,menu_item,Rasmalai Premium,Rasmalai Premium is a veg dessert costing ₹450. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 450, ""serves"": 1, ""diet"": ""Veg""}"
+M012,menu_item,Paneer Tikka Chef's,Paneer Tikka Chef's is a veg starter costing ₹270. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 270, ""serves"": 1, ""diet"": ""Veg""}"
+M013,menu_item,Chicken Biryani Spicy,Chicken Biryani Spicy is a non-veg main course costing ₹260. Serves 2. Popular among families.,Main Course,"non-veg,main course","{""price"": 260, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M014,menu_item,Brownie Premium,Brownie Premium is a veg dessert costing ₹310. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 310, ""serves"": 1, ""diet"": ""Veg""}"
+M015,menu_item,Gulab Jamun Special,Gulab Jamun Special is a veg dessert costing ₹190. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 190, ""serves"": 1, ""diet"": ""Veg""}"
+M016,menu_item,Noodles Spicy,Noodles Spicy is a veg main course costing ₹260. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 260, ""serves"": 1, ""diet"": ""Veg""}"
+M017,menu_item,Gulab Jamun Chef's,Gulab Jamun Chef's is a veg dessert costing ₹110. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 110, ""serves"": 2, ""diet"": ""Veg""}"
+M018,menu_item,Masala Tea Classic,Masala Tea Classic is a veg beverage costing ₹220. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 220, ""serves"": 2, ""diet"": ""Veg""}"
+M019,menu_item,Noodles Spicy,Noodles Spicy is a veg main course costing ₹380. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 380, ""serves"": 1, ""diet"": ""Veg""}"
+M020,menu_item,Brownie Chef's,Brownie Chef's is a veg dessert costing ₹440. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 440, ""serves"": 2, ""diet"": ""Veg""}"
+M021,menu_item,Mango Shake Spicy,Mango Shake Spicy is a veg beverage costing ₹320. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 320, ""serves"": 1, ""diet"": ""Veg""}"
+M022,menu_item,Kadai Paneer Spicy,Kadai Paneer Spicy is a veg main course costing ₹140. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 140, ""serves"": 1, ""diet"": ""Veg""}"
+M023,menu_item,French Fries Chef's,French Fries Chef's is a veg starter costing ₹360. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 360, ""serves"": 1, ""diet"": ""Veg""}"
+M024,menu_item,Fresh Lime Soda Special,Fresh Lime Soda Special is a veg beverage costing ₹380. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 380, ""serves"": 2, ""diet"": ""Veg""}"
+M025,menu_item,Chicken Wings Special,Chicken Wings Special is a non-veg starter costing ₹260. Serves 2. Popular among families.,Starter,"non-veg,starter","{""price"": 260, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M026,menu_item,Crispy Corn Spicy,Crispy Corn Spicy is a veg starter costing ₹190. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 190, ""serves"": 2, ""diet"": ""Veg""}"
+M027,menu_item,Crispy Corn Special,Crispy Corn Special is a veg starter costing ₹200. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 200, ""serves"": 1, ""diet"": ""Veg""}"
+M028,menu_item,Rasmalai Special,Rasmalai Special is a veg dessert costing ₹210. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 210, ""serves"": 1, ""diet"": ""Veg""}"
+M029,menu_item,Brownie Special,Brownie Special is a veg dessert costing ₹420. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 420, ""serves"": 1, ""diet"": ""Veg""}"
+M030,menu_item,Cheesecake Classic,Cheesecake Classic is a veg dessert costing ₹160. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 160, ""serves"": 2, ""diet"": ""Veg""}"
+M031,menu_item,Brownie Classic,Brownie Classic is a veg dessert costing ₹240. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 240, ""serves"": 1, ""diet"": ""Veg""}"
+M032,menu_item,Chicken 65 Classic,Chicken 65 Classic is a non-veg starter costing ₹430. Serves 1. Popular among families.,Starter,"non-veg,starter","{""price"": 430, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M033,menu_item,Noodles Special,Noodles Special is a veg main course costing ₹190. Serves 2. Popular among families.,Main Course,"veg,main course","{""price"": 190, ""serves"": 2, ""diet"": ""Veg""}"
+M034,menu_item,Cold Coffee Special,Cold Coffee Special is a veg beverage costing ₹210. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 210, ""serves"": 2, ""diet"": ""Veg""}"
+M035,menu_item,Masala Tea Spicy,Masala Tea Spicy is a veg beverage costing ₹420. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 420, ""serves"": 2, ""diet"": ""Veg""}"
+M036,menu_item,Gobi Manchurian Chef's,Gobi Manchurian Chef's is a veg starter costing ₹130. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 130, ""serves"": 2, ""diet"": ""Veg""}"
+M037,menu_item,Chilli Paneer Special,Chilli Paneer Special is a veg starter costing ₹230. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 230, ""serves"": 1, ""diet"": ""Veg""}"
+M038,menu_item,Chicken Wings Classic,Chicken Wings Classic is a non-veg starter costing ₹230. Serves 1. Popular among families.,Starter,"non-veg,starter","{""price"": 230, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M039,menu_item,Fish Fingers Classic,Fish Fingers Classic is a non-veg starter costing ₹410. Serves 1. Popular among families.,Starter,"non-veg,starter","{""price"": 410, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M040,menu_item,Cheesecake Chef's,Cheesecake Chef's is a veg dessert costing ₹430. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 430, ""serves"": 1, ""diet"": ""Veg""}"
+M041,menu_item,Cold Coffee Spicy,Cold Coffee Spicy is a veg beverage costing ₹350. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 350, ""serves"": 1, ""diet"": ""Veg""}"
+M042,menu_item,Chicken Wings Spicy,Chicken Wings Spicy is a non-veg starter costing ₹310. Serves 2. Popular among families.,Starter,"non-veg,starter","{""price"": 310, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M043,menu_item,Fresh Lime Soda Classic,Fresh Lime Soda Classic is a veg beverage costing ₹150. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 150, ""serves"": 1, ""diet"": ""Veg""}"
+M044,menu_item,Masala Tea Classic,Masala Tea Classic is a veg beverage costing ₹240. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 240, ""serves"": 1, ""diet"": ""Veg""}"
+M045,menu_item,Kadai Paneer Spicy,Kadai Paneer Spicy is a veg main course costing ₹170. Serves 2. Popular among families.,Main Course,"veg,main course","{""price"": 170, ""serves"": 2, ""diet"": ""Veg""}"
+M046,menu_item,Dal Tadka Spicy,Dal Tadka Spicy is a veg main course costing ₹240. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 240, ""serves"": 1, ""diet"": ""Veg""}"
+M047,menu_item,Mango Shake Classic,Mango Shake Classic is a veg beverage costing ₹120. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 120, ""serves"": 1, ""diet"": ""Veg""}"
+M048,menu_item,Gobi Manchurian Chef's,Gobi Manchurian Chef's is a veg starter costing ₹350. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 350, ""serves"": 2, ""diet"": ""Veg""}"
+M049,menu_item,Cold Coffee Spicy,Cold Coffee Spicy is a veg beverage costing ₹120. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 120, ""serves"": 1, ""diet"": ""Veg""}"
+M050,menu_item,Lassi Spicy,Lassi Spicy is a veg beverage costing ₹250. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 250, ""serves"": 2, ""diet"": ""Veg""}"
+M051,menu_item,Cheesecake Special,Cheesecake Special is a veg dessert costing ₹400. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 400, ""serves"": 1, ""diet"": ""Veg""}"
+M052,menu_item,Dal Tadka Chef's,Dal Tadka Chef's is a veg main course costing ₹120. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 120, ""serves"": 1, ""diet"": ""Veg""}"
+M053,menu_item,Gulab Jamun Classic,Gulab Jamun Classic is a veg dessert costing ₹390. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 390, ""serves"": 1, ""diet"": ""Veg""}"
+M054,menu_item,Stuffed Mushrooms Classic,Stuffed Mushrooms Classic is a veg starter costing ₹200. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 200, ""serves"": 1, ""diet"": ""Veg""}"
+M055,menu_item,Gobi Manchurian Spicy,Gobi Manchurian Spicy is a veg starter costing ₹160. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 160, ""serves"": 1, ""diet"": ""Veg""}"
+M056,menu_item,Chilli Paneer Classic,Chilli Paneer Classic is a veg starter costing ₹350. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 350, ""serves"": 2, ""diet"": ""Veg""}"
+M057,menu_item,Brownie Premium,Brownie Premium is a veg dessert costing ₹240. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 240, ""serves"": 2, ""diet"": ""Veg""}"
+M058,menu_item,Cold Coffee Premium,Cold Coffee Premium is a veg beverage costing ₹380. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 380, ""serves"": 2, ""diet"": ""Veg""}"
+M059,menu_item,Paneer Tikka Spicy,Paneer Tikka Spicy is a veg starter costing ₹450. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 450, ""serves"": 1, ""diet"": ""Veg""}"
+M060,menu_item,Stuffed Mushrooms Chef's,Stuffed Mushrooms Chef's is a veg starter costing ₹410. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 410, ""serves"": 2, ""diet"": ""Veg""}"
+M061,menu_item,Veg Fried Rice Classic,Veg Fried Rice Classic is a veg main course costing ₹240. Serves 2. Popular among families.,Main Course,"veg,main course","{""price"": 240, ""serves"": 2, ""diet"": ""Veg""}"
+M062,menu_item,Brownie Spicy,Brownie Spicy is a veg dessert costing ₹430. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 430, ""serves"": 2, ""diet"": ""Veg""}"
+M063,menu_item,Stuffed Mushrooms Premium,Stuffed Mushrooms Premium is a veg starter costing ₹150. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 150, ""serves"": 1, ""diet"": ""Veg""}"
+M064,menu_item,Gulab Jamun Classic,Gulab Jamun Classic is a veg dessert costing ₹440. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 440, ""serves"": 1, ""diet"": ""Veg""}"
+M065,menu_item,Ice Cream Special,Ice Cream Special is a veg dessert costing ₹220. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 220, ""serves"": 2, ""diet"": ""Veg""}"
+M066,menu_item,Dal Tadka Special,Dal Tadka Special is a veg main course costing ₹400. Serves 2. Popular among families.,Main Course,"veg,main course","{""price"": 400, ""serves"": 2, ""diet"": ""Veg""}"
+M067,menu_item,Chicken Wings Spicy,Chicken Wings Spicy is a non-veg starter costing ₹260. Serves 1. Popular among families.,Starter,"non-veg,starter","{""price"": 260, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M068,menu_item,Fish Fingers Chef's,Fish Fingers Chef's is a non-veg starter costing ₹250. Serves 1. Popular among families.,Starter,"non-veg,starter","{""price"": 250, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M069,menu_item,Mango Shake Spicy,Mango Shake Spicy is a veg beverage costing ₹440. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 440, ""serves"": 1, ""diet"": ""Veg""}"
+M070,menu_item,Chicken Wings Chef's,Chicken Wings Chef's is a non-veg starter costing ₹430. Serves 1. Popular among families.,Starter,"non-veg,starter","{""price"": 430, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M071,menu_item,Rasmalai Special,Rasmalai Special is a veg dessert costing ₹180. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 180, ""serves"": 2, ""diet"": ""Veg""}"
+M072,menu_item,Veg Biryani Premium,Veg Biryani Premium is a veg main course costing ₹320. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 320, ""serves"": 1, ""diet"": ""Veg""}"
+M073,menu_item,Brownie Chef's,Brownie Chef's is a veg dessert costing ₹150. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 150, ""serves"": 2, ""diet"": ""Veg""}"
+M074,menu_item,Mango Shake Chef's,Mango Shake Chef's is a veg beverage costing ₹240. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 240, ""serves"": 1, ""diet"": ""Veg""}"
+M075,menu_item,Chicken Fried Rice Classic,Chicken Fried Rice Classic is a non-veg main course costing ₹200. Serves 2. Popular among families.,Main Course,"non-veg,main course","{""price"": 200, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M076,menu_item,Cold Coffee Premium,Cold Coffee Premium is a veg beverage costing ₹190. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 190, ""serves"": 1, ""diet"": ""Veg""}"
+M077,menu_item,Lassi Spicy,Lassi Spicy is a veg beverage costing ₹230. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 230, ""serves"": 1, ""diet"": ""Veg""}"
+M078,menu_item,Masala Tea Premium,Masala Tea Premium is a veg beverage costing ₹230. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 230, ""serves"": 1, ""diet"": ""Veg""}"
+M079,menu_item,Gobi Manchurian Spicy,Gobi Manchurian Spicy is a veg starter costing ₹300. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 300, ""serves"": 2, ""diet"": ""Veg""}"
+M080,menu_item,Crispy Corn Premium,Crispy Corn Premium is a veg starter costing ₹410. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 410, ""serves"": 2, ""diet"": ""Veg""}"
+M081,menu_item,Gulab Jamun Classic,Gulab Jamun Classic is a veg dessert costing ₹250. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 250, ""serves"": 1, ""diet"": ""Veg""}"
+M082,menu_item,Gulab Jamun Classic,Gulab Jamun Classic is a veg dessert costing ₹360. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 360, ""serves"": 2, ""diet"": ""Veg""}"
+M083,menu_item,Cheesecake Special,Cheesecake Special is a veg dessert costing ₹410. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 410, ""serves"": 1, ""diet"": ""Veg""}"
+M084,menu_item,Mango Shake Chef's,Mango Shake Chef's is a veg beverage costing ₹250. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 250, ""serves"": 1, ""diet"": ""Veg""}"
+M085,menu_item,Lassi Special,Lassi Special is a veg beverage costing ₹430. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 430, ""serves"": 1, ""diet"": ""Veg""}"
+M086,menu_item,Cheesecake Classic,Cheesecake Classic is a veg dessert costing ₹300. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 300, ""serves"": 2, ""diet"": ""Veg""}"
+M087,menu_item,Crispy Corn Special,Crispy Corn Special is a veg starter costing ₹280. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 280, ""serves"": 2, ""diet"": ""Veg""}"
+M088,menu_item,Cheesecake Premium,Cheesecake Premium is a veg dessert costing ₹440. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 440, ""serves"": 1, ""diet"": ""Veg""}"
+M089,menu_item,Chicken Fried Rice Spicy,Chicken Fried Rice Spicy is a non-veg main course costing ₹200. Serves 2. Popular among families.,Main Course,"non-veg,main course","{""price"": 200, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M090,menu_item,Mango Shake Classic,Mango Shake Classic is a veg beverage costing ₹280. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 280, ""serves"": 2, ""diet"": ""Veg""}"
+M091,menu_item,Chicken Fried Rice Special,Chicken Fried Rice Special is a non-veg main course costing ₹290. Serves 2. Popular among families.,Main Course,"non-veg,main course","{""price"": 290, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M092,menu_item,Fresh Lime Soda Chef's,Fresh Lime Soda Chef's is a veg beverage costing ₹410. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 410, ""serves"": 2, ""diet"": ""Veg""}"
+M093,menu_item,Chicken Biryani Premium,Chicken Biryani Premium is a non-veg main course costing ₹410. Serves 2. Popular among families.,Main Course,"non-veg,main course","{""price"": 410, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M094,menu_item,Gobi Manchurian Premium,Gobi Manchurian Premium is a veg starter costing ₹230. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 230, ""serves"": 1, ""diet"": ""Veg""}"
+M095,menu_item,Veg Biryani Classic,Veg Biryani Classic is a veg main course costing ₹240. Serves 2. Popular among families.,Main Course,"veg,main course","{""price"": 240, ""serves"": 2, ""diet"": ""Veg""}"
+M096,menu_item,Chicken 65 Spicy,Chicken 65 Spicy is a non-veg starter costing ₹450. Serves 1. Popular among families.,Starter,"non-veg,starter","{""price"": 450, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M097,menu_item,Fresh Lime Soda Spicy,Fresh Lime Soda Spicy is a veg beverage costing ₹240. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 240, ""serves"": 1, ""diet"": ""Veg""}"
+M098,menu_item,Chicken Wings Spicy,Chicken Wings Spicy is a non-veg starter costing ₹230. Serves 1. Popular among families.,Starter,"non-veg,starter","{""price"": 230, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M099,menu_item,Lassi Special,Lassi Special is a veg beverage costing ₹240. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 240, ""serves"": 1, ""diet"": ""Veg""}"
+M100,menu_item,Cold Coffee Spicy,Cold Coffee Spicy is a veg beverage costing ₹420. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 420, ""serves"": 2, ""diet"": ""Veg""}"
+M101,menu_item,Mango Shake Special,Mango Shake Special is a veg beverage costing ₹360. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 360, ""serves"": 2, ""diet"": ""Veg""}"
+M102,menu_item,Noodles Spicy,Noodles Spicy is a veg main course costing ₹250. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 250, ""serves"": 1, ""diet"": ""Veg""}"
+M103,menu_item,Rasmalai Spicy,Rasmalai Spicy is a veg dessert costing ₹240. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 240, ""serves"": 2, ""diet"": ""Veg""}"
+M104,menu_item,Lassi Premium,Lassi Premium is a veg beverage costing ₹240. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 240, ""serves"": 2, ""diet"": ""Veg""}"
+M105,menu_item,Ice Cream Special,Ice Cream Special is a veg dessert costing ₹140. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 140, ""serves"": 1, ""diet"": ""Veg""}"
+M106,menu_item,Paneer Butter Masala Spicy,Paneer Butter Masala Spicy is a veg main course costing ₹180. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 180, ""serves"": 1, ""diet"": ""Veg""}"
+M107,menu_item,Veg Spring Rolls Spicy,Veg Spring Rolls Spicy is a veg starter costing ₹300. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 300, ""serves"": 2, ""diet"": ""Veg""}"
+M108,menu_item,Lassi Chef's,Lassi Chef's is a veg beverage costing ₹350. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 350, ""serves"": 2, ""diet"": ""Veg""}"
+M109,menu_item,Chilli Paneer Spicy,Chilli Paneer Spicy is a veg starter costing ₹390. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 390, ""serves"": 1, ""diet"": ""Veg""}"
+M110,menu_item,Ice Cream Spicy,Ice Cream Spicy is a veg dessert costing ₹350. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 350, ""serves"": 1, ""diet"": ""Veg""}"
+M111,menu_item,Cold Coffee Premium,Cold Coffee Premium is a veg beverage costing ₹360. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 360, ""serves"": 2, ""diet"": ""Veg""}"
+M112,menu_item,Veg Spring Rolls Premium,Veg Spring Rolls Premium is a veg starter costing ₹340. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 340, ""serves"": 1, ""diet"": ""Veg""}"
+M113,menu_item,Cold Coffee Special,Cold Coffee Special is a veg beverage costing ₹430. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 430, ""serves"": 1, ""diet"": ""Veg""}"
+M114,menu_item,Mango Shake Special,Mango Shake Special is a veg beverage costing ₹100. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 100, ""serves"": 1, ""diet"": ""Veg""}"
+M115,menu_item,Cold Coffee Spicy,Cold Coffee Spicy is a veg beverage costing ₹200. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 200, ""serves"": 1, ""diet"": ""Veg""}"
+M116,menu_item,Cheesecake Premium,Cheesecake Premium is a veg dessert costing ₹220. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 220, ""serves"": 2, ""diet"": ""Veg""}"
+M117,menu_item,Ice Cream Spicy,Ice Cream Spicy is a veg dessert costing ₹260. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 260, ""serves"": 2, ""diet"": ""Veg""}"
+M118,menu_item,Gulab Jamun Spicy,Gulab Jamun Spicy is a veg dessert costing ₹100. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 100, ""serves"": 1, ""diet"": ""Veg""}"
+M119,menu_item,Brownie Classic,Brownie Classic is a veg dessert costing ₹110. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 110, ""serves"": 1, ""diet"": ""Veg""}"
+M120,menu_item,Paneer Butter Masala Classic,Paneer Butter Masala Classic is a veg main course costing ₹180. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 180, ""serves"": 1, ""diet"": ""Veg""}"
+M121,menu_item,Noodles Classic,Noodles Classic is a veg main course costing ₹450. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 450, ""serves"": 1, ""diet"": ""Veg""}"
+M122,menu_item,Masala Tea Premium,Masala Tea Premium is a veg beverage costing ₹190. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 190, ""serves"": 1, ""diet"": ""Veg""}"
+M123,menu_item,Dal Tadka Classic,Dal Tadka Classic is a veg main course costing ₹100. Serves 2. Popular among families.,Main Course,"veg,main course","{""price"": 100, ""serves"": 2, ""diet"": ""Veg""}"
+M124,menu_item,Fresh Lime Soda Chef's,Fresh Lime Soda Chef's is a veg beverage costing ₹130. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 130, ""serves"": 1, ""diet"": ""Veg""}"
+M125,menu_item,Crispy Corn Special,Crispy Corn Special is a veg starter costing ₹160. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 160, ""serves"": 1, ""diet"": ""Veg""}"
+M126,menu_item,Rasmalai Spicy,Rasmalai Spicy is a veg dessert costing ₹320. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 320, ""serves"": 1, ""diet"": ""Veg""}"
+M127,menu_item,Gulab Jamun Spicy,Gulab Jamun Spicy is a veg dessert costing ₹400. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 400, ""serves"": 1, ""diet"": ""Veg""}"
+M128,menu_item,Masala Tea Spicy,Masala Tea Spicy is a veg beverage costing ₹180. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 180, ""serves"": 2, ""diet"": ""Veg""}"
+M129,menu_item,Kadai Paneer Premium,Kadai Paneer Premium is a veg main course costing ₹430. Serves 2. Popular among families.,Main Course,"veg,main course","{""price"": 430, ""serves"": 2, ""diet"": ""Veg""}"
+M130,menu_item,Fresh Lime Soda Special,Fresh Lime Soda Special is a veg beverage costing ₹260. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 260, ""serves"": 2, ""diet"": ""Veg""}"
+M131,menu_item,Chicken Biryani Premium,Chicken Biryani Premium is a non-veg main course costing ₹370. Serves 1. Popular among families.,Main Course,"non-veg,main course","{""price"": 370, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M132,menu_item,Mango Shake Special,Mango Shake Special is a veg beverage costing ₹330. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 330, ""serves"": 2, ""diet"": ""Veg""}"
+M133,menu_item,Chicken 65 Premium,Chicken 65 Premium is a non-veg starter costing ₹200. Serves 2. Popular among families.,Starter,"non-veg,starter","{""price"": 200, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M134,menu_item,Veg Fried Rice Premium,Veg Fried Rice Premium is a veg main course costing ₹300. Serves 2. Popular among families.,Main Course,"veg,main course","{""price"": 300, ""serves"": 2, ""diet"": ""Veg""}"
+M135,menu_item,Rasmalai Classic,Rasmalai Classic is a veg dessert costing ₹420. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 420, ""serves"": 1, ""diet"": ""Veg""}"
+M136,menu_item,Gobi Manchurian Spicy,Gobi Manchurian Spicy is a veg starter costing ₹400. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 400, ""serves"": 1, ""diet"": ""Veg""}"
+M137,menu_item,Fresh Lime Soda Spicy,Fresh Lime Soda Spicy is a veg beverage costing ₹100. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 100, ""serves"": 1, ""diet"": ""Veg""}"
+M138,menu_item,Brownie Spicy,Brownie Spicy is a veg dessert costing ₹240. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 240, ""serves"": 2, ""diet"": ""Veg""}"
+M139,menu_item,Cheesecake Special,Cheesecake Special is a veg dessert costing ₹420. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 420, ""serves"": 2, ""diet"": ""Veg""}"
+M140,menu_item,Mango Shake Premium,Mango Shake Premium is a veg beverage costing ₹310. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 310, ""serves"": 2, ""diet"": ""Veg""}"
+M141,menu_item,Ice Cream Premium,Ice Cream Premium is a veg dessert costing ₹230. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 230, ""serves"": 1, ""diet"": ""Veg""}"
+M142,menu_item,Veg Fried Rice Classic,Veg Fried Rice Classic is a veg main course costing ₹430. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 430, ""serves"": 1, ""diet"": ""Veg""}"
+M143,menu_item,Paneer Butter Masala Spicy,Paneer Butter Masala Spicy is a veg main course costing ₹260. Serves 2. Popular among families.,Main Course,"veg,main course","{""price"": 260, ""serves"": 2, ""diet"": ""Veg""}"
+M144,menu_item,Gobi Manchurian Premium,Gobi Manchurian Premium is a veg starter costing ₹230. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 230, ""serves"": 2, ""diet"": ""Veg""}"
+M145,menu_item,Dal Tadka Classic,Dal Tadka Classic is a veg main course costing ₹430. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 430, ""serves"": 1, ""diet"": ""Veg""}"
+M146,menu_item,Gulab Jamun Classic,Gulab Jamun Classic is a veg dessert costing ₹440. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 440, ""serves"": 2, ""diet"": ""Veg""}"
+M147,menu_item,Noodles Classic,Noodles Classic is a veg main course costing ₹90. Serves 2. Popular among families.,Main Course,"veg,main course","{""price"": 90, ""serves"": 2, ""diet"": ""Veg""}"
+M148,menu_item,Fresh Lime Soda Spicy,Fresh Lime Soda Spicy is a veg beverage costing ₹300. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 300, ""serves"": 1, ""diet"": ""Veg""}"
+M149,menu_item,Crispy Corn Spicy,Crispy Corn Spicy is a veg starter costing ₹160. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 160, ""serves"": 1, ""diet"": ""Veg""}"
+M150,menu_item,Fresh Lime Soda Classic,Fresh Lime Soda Classic is a veg beverage costing ₹450. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 450, ""serves"": 1, ""diet"": ""Veg""}"
+M151,menu_item,Butter Chicken Special,Butter Chicken Special is a non-veg main course costing ₹280. Serves 1. Popular among families.,Main Course,"non-veg,main course","{""price"": 280, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M152,menu_item,Chicken Biryani Special,Chicken Biryani Special is a non-veg main course costing ₹350. Serves 1. Popular among families.,Main Course,"non-veg,main course","{""price"": 350, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M153,menu_item,Fresh Lime Soda Spicy,Fresh Lime Soda Spicy is a veg beverage costing ₹280. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 280, ""serves"": 2, ""diet"": ""Veg""}"
+M154,menu_item,Rasmalai Special,Rasmalai Special is a veg dessert costing ₹120. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 120, ""serves"": 1, ""diet"": ""Veg""}"
+M155,menu_item,Paneer Butter Masala Premium,Paneer Butter Masala Premium is a veg main course costing ₹140. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 140, ""serves"": 1, ""diet"": ""Veg""}"
+M156,menu_item,Butter Chicken Special,Butter Chicken Special is a non-veg main course costing ₹130. Serves 1. Popular among families.,Main Course,"non-veg,main course","{""price"": 130, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M157,menu_item,Veg Spring Rolls Spicy,Veg Spring Rolls Spicy is a veg starter costing ₹390. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 390, ""serves"": 2, ""diet"": ""Veg""}"
+M158,menu_item,Gobi Manchurian Premium,Gobi Manchurian Premium is a veg starter costing ₹270. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 270, ""serves"": 2, ""diet"": ""Veg""}"
+M159,menu_item,Gobi Manchurian Premium,Gobi Manchurian Premium is a veg starter costing ₹210. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 210, ""serves"": 2, ""diet"": ""Veg""}"
+M160,menu_item,Stuffed Mushrooms Chef's,Stuffed Mushrooms Chef's is a veg starter costing ₹180. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 180, ""serves"": 2, ""diet"": ""Veg""}"
+M161,menu_item,Chicken Biryani Classic,Chicken Biryani Classic is a non-veg main course costing ₹190. Serves 2. Popular among families.,Main Course,"non-veg,main course","{""price"": 190, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M162,menu_item,Cheesecake Classic,Cheesecake Classic is a veg dessert costing ₹380. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 380, ""serves"": 2, ""diet"": ""Veg""}"
+M163,menu_item,Masala Tea Special,Masala Tea Special is a veg beverage costing ₹430. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 430, ""serves"": 2, ""diet"": ""Veg""}"
+M164,menu_item,Lassi Special,Lassi Special is a veg beverage costing ₹110. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 110, ""serves"": 2, ""diet"": ""Veg""}"
+M165,menu_item,Rasmalai Premium,Rasmalai Premium is a veg dessert costing ₹100. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 100, ""serves"": 1, ""diet"": ""Veg""}"
+M166,menu_item,Chicken Curry Special,Chicken Curry Special is a non-veg main course costing ₹100. Serves 2. Popular among families.,Main Course,"non-veg,main course","{""price"": 100, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M167,menu_item,French Fries Spicy,French Fries Spicy is a veg starter costing ₹420. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 420, ""serves"": 2, ""diet"": ""Veg""}"
+M168,menu_item,Brownie Special,Brownie Special is a veg dessert costing ₹360. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 360, ""serves"": 2, ""diet"": ""Veg""}"
+M169,menu_item,Chicken 65 Premium,Chicken 65 Premium is a non-veg starter costing ₹350. Serves 2. Popular among families.,Starter,"non-veg,starter","{""price"": 350, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M170,menu_item,Gulab Jamun Chef's,Gulab Jamun Chef's is a veg dessert costing ₹300. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 300, ""serves"": 2, ""diet"": ""Veg""}"
+M171,menu_item,Masala Tea Spicy,Masala Tea Spicy is a veg beverage costing ₹440. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 440, ""serves"": 1, ""diet"": ""Veg""}"
+M172,menu_item,Lassi Premium,Lassi Premium is a veg beverage costing ₹250. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 250, ""serves"": 2, ""diet"": ""Veg""}"
+M173,menu_item,Veg Spring Rolls Special,Veg Spring Rolls Special is a veg starter costing ₹90. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 90, ""serves"": 2, ""diet"": ""Veg""}"
+M174,menu_item,Lassi Chef's,Lassi Chef's is a veg beverage costing ₹420. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 420, ""serves"": 2, ""diet"": ""Veg""}"
+M175,menu_item,Fresh Lime Soda Classic,Fresh Lime Soda Classic is a veg beverage costing ₹220. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 220, ""serves"": 2, ""diet"": ""Veg""}"
+M176,menu_item,Dal Tadka Spicy,Dal Tadka Spicy is a veg main course costing ₹400. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 400, ""serves"": 1, ""diet"": ""Veg""}"
+M177,menu_item,Chilli Paneer Chef's,Chilli Paneer Chef's is a veg starter costing ₹190. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 190, ""serves"": 2, ""diet"": ""Veg""}"
+M178,menu_item,Stuffed Mushrooms Spicy,Stuffed Mushrooms Spicy is a veg starter costing ₹140. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 140, ""serves"": 1, ""diet"": ""Veg""}"
+M179,menu_item,Chicken 65 Classic,Chicken 65 Classic is a non-veg starter costing ₹180. Serves 2. Popular among families.,Starter,"non-veg,starter","{""price"": 180, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M180,menu_item,Rasmalai Premium,Rasmalai Premium is a veg dessert costing ₹350. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 350, ""serves"": 2, ""diet"": ""Veg""}"
+M181,menu_item,Cold Coffee Spicy,Cold Coffee Spicy is a veg beverage costing ₹440. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 440, ""serves"": 1, ""diet"": ""Veg""}"
+M182,menu_item,Cold Coffee Special,Cold Coffee Special is a veg beverage costing ₹410. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 410, ""serves"": 1, ""diet"": ""Veg""}"
+M183,menu_item,Crispy Corn Spicy,Crispy Corn Spicy is a veg starter costing ₹300. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 300, ""serves"": 2, ""diet"": ""Veg""}"
+M184,menu_item,Crispy Corn Premium,Crispy Corn Premium is a veg starter costing ₹400. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 400, ""serves"": 1, ""diet"": ""Veg""}"
+M185,menu_item,Mango Shake Spicy,Mango Shake Spicy is a veg beverage costing ₹310. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 310, ""serves"": 2, ""diet"": ""Veg""}"
+M186,menu_item,Fresh Lime Soda Premium,Fresh Lime Soda Premium is a veg beverage costing ₹210. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 210, ""serves"": 1, ""diet"": ""Veg""}"
+M187,menu_item,Cold Coffee Spicy,Cold Coffee Spicy is a veg beverage costing ₹110. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 110, ""serves"": 2, ""diet"": ""Veg""}"
+M188,menu_item,Fresh Lime Soda Spicy,Fresh Lime Soda Spicy is a veg beverage costing ₹180. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 180, ""serves"": 2, ""diet"": ""Veg""}"
+M189,menu_item,French Fries Special,French Fries Special is a veg starter costing ₹300. Serves 1. Popular among families.,Starter,"veg,starter","{""price"": 300, ""serves"": 1, ""diet"": ""Veg""}"
+M190,menu_item,Lassi Special,Lassi Special is a veg beverage costing ₹380. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 380, ""serves"": 1, ""diet"": ""Veg""}"
+M191,menu_item,Chicken Fried Rice Chef's,Chicken Fried Rice Chef's is a non-veg main course costing ₹130. Serves 2. Popular among families.,Main Course,"non-veg,main course","{""price"": 130, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M192,menu_item,Ice Cream Special,Ice Cream Special is a veg dessert costing ₹340. Serves 1. Popular among families.,Dessert,"veg,dessert","{""price"": 340, ""serves"": 1, ""diet"": ""Veg""}"
+M193,menu_item,Rasmalai Spicy,Rasmalai Spicy is a veg dessert costing ₹290. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 290, ""serves"": 2, ""diet"": ""Veg""}"
+M194,menu_item,Chilli Paneer Classic,Chilli Paneer Classic is a veg starter costing ₹240. Serves 2. Popular among families.,Starter,"veg,starter","{""price"": 240, ""serves"": 2, ""diet"": ""Veg""}"
+M195,menu_item,Chicken Biryani Spicy,Chicken Biryani Spicy is a non-veg main course costing ₹150. Serves 1. Popular among families.,Main Course,"non-veg,main course","{""price"": 150, ""serves"": 1, ""diet"": ""Non-Veg""}"
+M196,menu_item,Cold Coffee Premium,Cold Coffee Premium is a veg beverage costing ₹100. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 100, ""serves"": 1, ""diet"": ""Veg""}"
+M197,menu_item,Gulab Jamun Premium,Gulab Jamun Premium is a veg dessert costing ₹310. Serves 2. Popular among families.,Dessert,"veg,dessert","{""price"": 310, ""serves"": 2, ""diet"": ""Veg""}"
+M198,menu_item,Cold Coffee Chef's,Cold Coffee Chef's is a veg beverage costing ₹420. Serves 2. Popular among families.,Beverage,"veg,beverage","{""price"": 420, ""serves"": 2, ""diet"": ""Veg""}"
+M199,menu_item,Butter Chicken Chef's,Butter Chicken Chef's is a non-veg main course costing ₹140. Serves 2. Popular among families.,Main Course,"non-veg,main course","{""price"": 140, ""serves"": 2, ""diet"": ""Non-Veg""}"
+M200,menu_item,Noodles Special,Noodles Special is a veg main course costing ₹180. Serves 1. Popular among families.,Main Course,"veg,main course","{""price"": 180, ""serves"": 1, ""diet"": ""Veg""}"
+M201,menu_item,Masala Tea Spicy,Masala Tea Spicy is a veg beverage costing ₹250. Serves 1. Popular among families.,Beverage,"veg,beverage","{""price"": 250, ""serves"": 1, ""diet"": ""Veg""}"
+C001,combo,Family Combo 1,"Family Combo 1 serves 4 people for ₹1299. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1299}"
+C002,combo,Family Combo 2,"Family Combo 2 serves 4 people for ₹1049. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1049}"
+C003,combo,Family Combo 3,"Family Combo 3 serves 4 people for ₹849. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 849}"
+C004,combo,Family Combo 4,"Family Combo 4 serves 4 people for ₹699. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 699}"
+C005,combo,Family Combo 5,"Family Combo 5 serves 4 people for ₹1299. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1299}"
+C006,combo,Family Combo 6,"Family Combo 6 serves 4 people for ₹1149. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1149}"
+C007,combo,Family Combo 7,"Family Combo 7 serves 4 people for ₹1049. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1049}"
+C008,combo,Family Combo 8,"Family Combo 8 serves 4 people for ₹1249. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1249}"
+C009,combo,Family Combo 9,"Family Combo 9 serves 4 people for ₹999. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 999}"
+C010,combo,Family Combo 10,"Family Combo 10 serves 4 people for ₹1299. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1299}"
+C011,combo,Family Combo 11,"Family Combo 11 serves 4 people for ₹1049. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1049}"
+C012,combo,Family Combo 12,"Family Combo 12 serves 4 people for ₹899. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 899}"
+C013,combo,Family Combo 13,"Family Combo 13 serves 4 people for ₹1199. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1199}"
+C014,combo,Family Combo 14,"Family Combo 14 serves 4 people for ₹1349. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1349}"
+C015,combo,Family Combo 15,"Family Combo 15 serves 4 people for ₹749. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 749}"
+C016,combo,Family Combo 16,"Family Combo 16 serves 4 people for ₹949. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 949}"
+C017,combo,Family Combo 17,"Family Combo 17 serves 4 people for ₹1199. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1199}"
+C018,combo,Family Combo 18,"Family Combo 18 serves 4 people for ₹1149. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1149}"
+C019,combo,Family Combo 19,"Family Combo 19 serves 4 people for ₹1049. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1049}"
+C020,combo,Family Combo 20,"Family Combo 20 serves 4 people for ₹1049. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1049}"
+C021,combo,Family Combo 21,"Family Combo 21 serves 4 people for ₹599. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 599}"
+C022,combo,Family Combo 22,"Family Combo 22 serves 4 people for ₹1199. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1199}"
+C023,combo,Family Combo 23,"Family Combo 23 serves 4 people for ₹999. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 999}"
+C024,combo,Family Combo 24,"Family Combo 24 serves 4 people for ₹599. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 599}"
+C025,combo,Family Combo 25,"Family Combo 25 serves 4 people for ₹649. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 649}"
+C026,combo,Family Combo 26,"Family Combo 26 serves 4 people for ₹1349. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1349}"
+C027,combo,Family Combo 27,"Family Combo 27 serves 4 people for ₹1049. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1049}"
+C028,combo,Family Combo 28,"Family Combo 28 serves 4 people for ₹949. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 949}"
+C029,combo,Family Combo 29,"Family Combo 29 serves 4 people for ₹1149. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1149}"
+C030,combo,Family Combo 30,"Family Combo 30 serves 4 people for ₹949. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 949}"
+C031,combo,Family Combo 31,"Family Combo 31 serves 4 people for ₹899. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 899}"
+C032,combo,Family Combo 32,"Family Combo 32 serves 4 people for ₹999. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 999}"
+C033,combo,Family Combo 33,"Family Combo 33 serves 4 people for ₹799. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 799}"
+C034,combo,Family Combo 34,"Family Combo 34 serves 4 people for ₹749. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 749}"
+C035,combo,Family Combo 35,"Family Combo 35 serves 4 people for ₹649. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 649}"
+C036,combo,Family Combo 36,"Family Combo 36 serves 4 people for ₹1049. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1049}"
+C037,combo,Family Combo 37,"Family Combo 37 serves 4 people for ₹1299. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1299}"
+C038,combo,Family Combo 38,"Family Combo 38 serves 4 people for ₹649. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 649}"
+C039,combo,Family Combo 39,"Family Combo 39 serves 4 people for ₹1149. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 1149}"
+C040,combo,Family Combo 40,"Family Combo 40 serves 4 people for ₹799. Includes starter, main course, bread and dessert.",combo,"family,combo","{""serves"": 4, ""price"": 799}"
+O001,offer,Offer 1,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O002,offer,Offer 2,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O003,offer,Offer 3,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O004,offer,Offer 4,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O005,offer,Offer 5,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O006,offer,Offer 6,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O007,offer,Offer 7,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O008,offer,Offer 8,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O009,offer,Offer 9,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O010,offer,Offer 10,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O011,offer,Offer 11,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O012,offer,Offer 12,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O013,offer,Offer 13,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O014,offer,Offer 14,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O015,offer,Offer 15,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O016,offer,Offer 16,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O017,offer,Offer 17,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O018,offer,Offer 18,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O019,offer,Offer 19,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O020,offer,Offer 20,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O021,offer,Offer 21,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O022,offer,Offer 22,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O023,offer,Offer 23,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O024,offer,Offer 24,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O025,offer,Offer 25,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O026,offer,Offer 26,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O027,offer,Offer 27,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O028,offer,Offer 28,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O029,offer,Offer 29,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+O030,offer,Offer 30,Happy Hour 3 PM to 5 PM gives 10% discount on selected starters and beverages.,offer,happyhour,{}
+S001,chef_special,Chef Special 1,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S002,chef_special,Chef Special 2,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S003,chef_special,Chef Special 3,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S004,chef_special,Chef Special 4,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S005,chef_special,Chef Special 5,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S006,chef_special,Chef Special 6,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S007,chef_special,Chef Special 7,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S008,chef_special,Chef Special 8,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S009,chef_special,Chef Special 9,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S010,chef_special,Chef Special 10,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S011,chef_special,Chef Special 11,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S012,chef_special,Chef Special 12,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S013,chef_special,Chef Special 13,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S014,chef_special,Chef Special 14,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S015,chef_special,Chef Special 15,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S016,chef_special,Chef Special 16,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S017,chef_special,Chef Special 17,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S018,chef_special,Chef Special 18,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S019,chef_special,Chef Special 19,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+S020,chef_special,Chef Special 20,Chef recommends today's premium signature dish with seasonal ingredients.,special,chef,{}
+F001,faq,FAQ 1,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F002,faq,FAQ 2,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F003,faq,FAQ 3,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F004,faq,FAQ 4,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F005,faq,FAQ 5,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F006,faq,FAQ 6,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F007,faq,FAQ 7,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F008,faq,FAQ 8,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F009,faq,FAQ 9,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F010,faq,FAQ 10,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F011,faq,FAQ 11,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F012,faq,FAQ 12,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F013,faq,FAQ 13,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F014,faq,FAQ 14,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F015,faq,FAQ 15,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F016,faq,FAQ 16,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F017,faq,FAQ 17,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F018,faq,FAQ 18,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F019,faq,FAQ 19,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F020,faq,FAQ 20,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F021,faq,FAQ 21,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F022,faq,FAQ 22,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F023,faq,FAQ 23,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F024,faq,FAQ 24,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F025,faq,FAQ 25,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F026,faq,FAQ 26,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F027,faq,FAQ 27,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F028,faq,FAQ 28,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F029,faq,FAQ 29,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F030,faq,FAQ 30,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F031,faq,FAQ 31,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F032,faq,FAQ 32,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F033,faq,FAQ 33,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F034,faq,FAQ 34,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F035,faq,FAQ 35,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F036,faq,FAQ 36,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F037,faq,FAQ 37,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F038,faq,FAQ 38,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F039,faq,FAQ 39,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F040,faq,FAQ 40,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F041,faq,FAQ 41,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F042,faq,FAQ 42,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F043,faq,FAQ 43,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F044,faq,FAQ 44,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F045,faq,FAQ 45,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F046,faq,FAQ 46,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F047,faq,FAQ 47,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F048,faq,FAQ 48,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F049,faq,FAQ 49,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+F050,faq,FAQ 50,"Q: Can I reserve a table? A: Yes, reservations are accepted every 30 minutes between 11 AM and 10 PM.",faq,reservation,{}
+P001,policy,Reservation Policy 1,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P002,policy,Reservation Policy 2,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P003,policy,Reservation Policy 3,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P004,policy,Reservation Policy 4,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P005,policy,Reservation Policy 5,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P006,policy,Reservation Policy 6,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P007,policy,Reservation Policy 7,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P008,policy,Reservation Policy 8,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P009,policy,Reservation Policy 9,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P010,policy,Reservation Policy 10,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P011,policy,Reservation Policy 11,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P012,policy,Reservation Policy 12,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P013,policy,Reservation Policy 13,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P014,policy,Reservation Policy 14,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P015,policy,Reservation Policy 15,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P016,policy,Reservation Policy 16,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P017,policy,Reservation Policy 17,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P018,policy,Reservation Policy 18,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P019,policy,Reservation Policy 19,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+P020,policy,Reservation Policy 20,Groups of four or more are encouraged to reserve in advance. Late arrivals beyond 15 minutes may forfeit the booking.,policy,reservation,{}
+T001,table,Table 1,Table 1 seats 2 guests and is available for reservation.,table,seating,"{""capacity"": 2}"
+T002,table,Table 2,Table 2 seats 6 guests and is available for reservation.,table,seating,"{""capacity"": 6}"
+T003,table,Table 3,Table 3 seats 6 guests and is available for reservation.,table,seating,"{""capacity"": 6}"
+T004,table,Table 4,Table 4 seats 8 guests and is available for reservation.,table,seating,"{""capacity"": 8}"
+T005,table,Table 5,Table 5 seats 4 guests and is available for reservation.,table,seating,"{""capacity"": 4}"
+T006,table,Table 6,Table 6 seats 4 guests and is available for reservation.,table,seating,"{""capacity"": 4}"
+T007,table,Table 7,Table 7 seats 4 guests and is available for reservation.,table,seating,"{""capacity"": 4}"
+T008,table,Table 8,Table 8 seats 6 guests and is available for reservation.,table,seating,"{""capacity"": 6}"
+T009,table,Table 9,Table 9 seats 6 guests and is available for reservation.,table,seating,"{""capacity"": 6}"
+T010,table,Table 10,Table 10 seats 4 guests and is available for reservation.,table,seating,"{""capacity"": 4}"
+T011,table,Table 11,Table 11 seats 6 guests and is available for reservation.,table,seating,"{""capacity"": 6}"
+T012,table,Table 12,Table 12 seats 8 guests and is available for reservation.,table,seating,"{""capacity"": 8}"
+T013,table,Table 13,Table 13 seats 6 guests and is available for reservation.,table,seating,"{""capacity"": 6}"
+T014,table,Table 14,Table 14 seats 6 guests and is available for reservation.,table,seating,"{""capacity"": 6}"
+T015,table,Table 15,Table 15 seats 2 guests and is available for reservation.,table,seating,"{""capacity"": 2}"
+T016,table,Table 16,Table 16 seats 8 guests and is available for reservation.,table,seating,"{""capacity"": 8}"
+T017,table,Table 17,Table 17 seats 2 guests and is available for reservation.,table,seating,"{""capacity"": 2}"
+T018,table,Table 18,Table 18 seats 4 guests and is available for reservation.,table,seating,"{""capacity"": 4}"
+T019,table,Table 19,Table 19 seats 4 guests and is available for reservation.,table,seating,"{""capacity"": 4}"
+T020,table,Table 20,Table 20 seats 8 guests and is available for reservation.,table,seating,"{""capacity"": 8}"
+RV001,review,Review 1,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV002,review,Review 2,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV003,review,Review 3,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV004,review,Review 4,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV005,review,Review 5,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV006,review,Review 6,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV007,review,Review 7,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV008,review,Review 8,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV009,review,Review 9,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV010,review,Review 10,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV011,review,Review 11,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV012,review,Review 12,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV013,review,Review 13,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV014,review,Review 14,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV015,review,Review 15,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV016,review,Review 16,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV017,review,Review 17,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV018,review,Review 18,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV019,review,Review 19,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV020,review,Review 20,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV021,review,Review 21,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV022,review,Review 22,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV023,review,Review 23,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV024,review,Review 24,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV025,review,Review 25,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV026,review,Review 26,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV027,review,Review 27,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV028,review,Review 28,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV029,review,Review 29,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV030,review,Review 30,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV031,review,Review 31,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV032,review,Review 32,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV033,review,Review 33,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV034,review,Review 34,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV035,review,Review 35,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV036,review,Review 36,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV037,review,Review 37,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV038,review,Review 38,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV039,review,Review 39,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV040,review,Review 40,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV041,review,Review 41,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV042,review,Review 42,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV043,review,Review 43,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV044,review,Review 44,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV045,review,Review 45,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV046,review,Review 46,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV047,review,Review 47,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV048,review,Review 48,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV049,review,Review 49,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV050,review,Review 50,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV051,review,Review 51,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV052,review,Review 52,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV053,review,Review 53,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV054,review,Review 54,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV055,review,Review 55,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV056,review,Review 56,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV057,review,Review 57,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV058,review,Review 58,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV059,review,Review 59,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV060,review,Review 60,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV061,review,Review 61,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV062,review,Review 62,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV063,review,Review 63,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV064,review,Review 64,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV065,review,Review 65,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV066,review,Review 66,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV067,review,Review 67,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+RV068,review,Review 68,"Customer rated 5/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 5}"
+RV069,review,Review 69,"Customer rated 4/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 4}"
+RV070,review,Review 70,"Customer rated 3/5. Appreciated food quality, ambience and quick service.",review,review,"{""rating"": 3}"
+N001,nutrition,Nutrition 1,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N002,nutrition,Nutrition 2,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N003,nutrition,Nutrition 3,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N004,nutrition,Nutrition 4,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N005,nutrition,Nutrition 5,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N006,nutrition,Nutrition 6,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N007,nutrition,Nutrition 7,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N008,nutrition,Nutrition 8,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N009,nutrition,Nutrition 9,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N010,nutrition,Nutrition 10,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N011,nutrition,Nutrition 11,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N012,nutrition,Nutrition 12,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N013,nutrition,Nutrition 13,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N014,nutrition,Nutrition 14,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N015,nutrition,Nutrition 15,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N016,nutrition,Nutrition 16,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N017,nutrition,Nutrition 17,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N018,nutrition,Nutrition 18,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N019,nutrition,Nutrition 19,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N020,nutrition,Nutrition 20,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N021,nutrition,Nutrition 21,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N022,nutrition,Nutrition 22,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N023,nutrition,Nutrition 23,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N024,nutrition,Nutrition 24,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N025,nutrition,Nutrition 25,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N026,nutrition,Nutrition 26,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N027,nutrition,Nutrition 27,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N028,nutrition,Nutrition 28,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N029,nutrition,Nutrition 29,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+N030,nutrition,Nutrition 30,"This document describes calories, protein and allergen information for selected dishes.",nutrition,allergen,{}
+SM001,seasonal_menu,Festival Menu 1,Limited-time festival menu with traditional dishes.,seasonal,festival,{}
+SM002,seasonal_menu,Festival Menu 2,Limited-time festival menu with traditional dishes.,seasonal,festival,{}
+SM003,seasonal_menu,Festival Menu 3,Limited-time festival menu with traditional dishes.,seasonal,festival,{}
+SM004,seasonal_menu,Festival Menu 4,Limited-time festival menu with traditional dishes.,seasonal,festival,{}
+SM005,seasonal_menu,Festival Menu 5,Limited-time festival menu with traditional dishes.,seasonal,festival,{}
+SM006,seasonal_menu,Festival Menu 6,Limited-time festival menu with traditional dishes.,seasonal,festival,{}
+SM007,seasonal_menu,Festival Menu 7,Limited-time festival menu with traditional dishes.,seasonal,festival,{}
+SM008,seasonal_menu,Festival Menu 8,Limited-time festival menu with traditional dishes.,seasonal,festival,{}
+SM009,seasonal_menu,Festival Menu 9,Limited-time festival menu with traditional dishes.,seasonal,festival,{}
+SM010,seasonal_menu,Festival Menu 10,Limited-time festival menu with traditional dishes.,seasonal,festival,{}
+E001,event,Event 1,Weekend live music and family entertainment.,event,music,{}
+E002,event,Event 2,Weekend live music and family entertainment.,event,music,{}
+E003,event,Event 3,Weekend live music and family entertainment.,event,music,{}
+E004,event,Event 4,Weekend live music and family entertainment.,event,music,{}
+E005,event,Event 5,Weekend live music and family entertainment.,event,music,{}
+E006,event,Event 6,Weekend live music and family entertainment.,event,music,{}
+E007,event,Event 7,Weekend live music and family entertainment.,event,music,{}
+E008,event,Event 8,Weekend live music and family entertainment.,event,music,{}
+E009,event,Event 9,Weekend live music and family entertainment.,event,music,{}
